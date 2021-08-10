@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabiodaitx
-- 👀 I’m interested in ...
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning: Angular
 - 💞️ I’m looking to collaborate on: Web Devopment
 - 📫 How to reach me: fabiodaitx@gmail.com or WhatsApp: +55 51 991611379
